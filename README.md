@@ -1,3 +1,8 @@
+# In Memory of Ardavan (Ari) Afshar
+
+Ari is a good mentor in directing us with this project. It is really sad to see a good person not around any more. RIP Ari, you will be missed. [Kudoboard](https://www.kudoboard.com/boards/7Rxs5p8Q)
+
+
 # TASTE
 
 TASTE combines the PARAFAC2 model with non-negative matrix factorization to model a temporal and a static tensor. It performs two import tasks in healthcare: 1- computational phenotyping 2- Predictive modeling by analyzing electronic health records (EHRs).
@@ -24,11 +29,6 @@ Afshar, Ardavan, Ioakeim Perros, Haesun Park, Christopher deFilippi, Xiaowei Yan
 Joyce Ho, and Jimeng Sun. "TASTE: Temporal and Static Tensor Factorization for Phenotyping Electronic
 Health Records." ACM CHIL 2020.
 ```
-
-
-# In Memory of Ardavan (Ari) Afshar
-
-Ari is a good mentor in directing us with this project. It is really sad to see a good person not around any more. RIP Ari, you will be missed. [Kudoboard](https://www.kudoboard.com/boards/7Rxs5p8Q)
 
 ### Code description
 
