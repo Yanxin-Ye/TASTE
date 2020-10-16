@@ -25,6 +25,11 @@ Joyce Ho, and Jimeng Sun. "TASTE: Temporal and Static Tensor Factorization for P
 Health Records." ACM CHIL 2020.
 ```
 
+
+# In Memory of Ardavan (Ari) Afshar
+
+Ari is a good mentor in directing us with this project. It is really sad to see a good person not around any more. RIP Ari, you will be missed. [Kudoboard](https://www.kudoboard.com/boards/7Rxs5p8Q)
+
 ### Code description
 
 [Nonnegative matrix factorization (NMF) algorithms based on alternating non-negativity constrained least squares](https://www.cc.gatech.edu/~hpark/nmfsoftware.php) has been imported and translated in [nonnegfac.py](nonnegfac.py).
